@@ -1,4 +1,4 @@
-# Mini Sistema de RH
+# Mini Sistema de RH (Continuação) | Projeto Final
 
 ## Funcionalidades
 
