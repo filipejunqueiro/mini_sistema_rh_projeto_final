@@ -78,6 +78,8 @@ Ao correr a aplicação, verá um menu interactivo no terminal:
 
 O ficheiro de dados padrão é `files/rh.json`. Se estiver vazio ou inexistente, a aplicação tentará inicializá-lo.
 
+### Exemplo do ficheiro RH
+
 ![RH JSON EXAMPLE](https://i.imgur.com/h7wSmou.png)
 
 ## Notas de plataforma / UTF-8
