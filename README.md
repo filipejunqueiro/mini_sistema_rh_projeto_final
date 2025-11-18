@@ -78,6 +78,8 @@ Ao correr a aplicação, verá um menu interactivo no terminal:
 
 O ficheiro de dados padrão é `files/rh.json`. Se estiver vazio ou inexistente, a aplicação tentará inicializá-lo.
 
+<img src="https://i.imgur.com/h7wSmou.png" alt="RH JSON EXAMPLE" \>
+
 ## Notas de plataforma / UTF-8
 
 - Para suportar caracteres acentuados na consola do Windows, o projeto chama `SetConsoleOutputCP(CP_UTF8)` no arranque da parte do UI.
