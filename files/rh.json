@@ -1,0 +1,34 @@
+[
+    {
+        "departamento": "",
+        "eventos": [
+            {
+                "data": {
+                    "ano": 2025,
+                    "dia": 18,
+                    "mes": 11
+                },
+                "tipo": 0
+            }
+        ],
+        "formacoes": [],
+        "nome": "RGFuaWVsIEdyYXppbmE=",
+        "notas": []
+    },
+    {
+        "departamento": "",
+        "eventos": [
+            {
+                "data": {
+                    "ano": 2025,
+                    "dia": 18,
+                    "mes": 11
+                },
+                "tipo": 0
+            }
+        ],
+        "formacoes": [],
+        "nome": "TWFyY28gQ2FuZGVpYXM=",
+        "notas": []
+    }
+]
