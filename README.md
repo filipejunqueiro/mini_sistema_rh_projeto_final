@@ -18,7 +18,7 @@
 O projeto usa as seguintes bibliotecas via vcpkg (configuradas no `CMakePresets.json`):
 
 - nlohmann-json
-- unofficial-sodium
+- libsodium
 
 ## Instalar dependências (vcpkg)
 
